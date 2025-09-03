@@ -43,18 +43,3 @@ Selecciona la plantilla, haz clic en "Siguiente", y continúa con la configuraci
 ![Buscar plantilla](./Imgs/03_SeleccionarPlantillaVS2022.webp)
 
 
-### 4. Configure el nombre del proyecto
-Establesca el nombre de su proyecto, **importan** revisar la ruta tenga esa estructura de carpetas donde se va a crear, seleccionar Colocar la solucion y el proyecto en el mismo directorio.
-![Buscar plantilla](./Imgs/04_ConfigureVS2022.webp)
-
-### 📁 Estructura esperada:
-```bash
-Singularity/
-└──projects/
-    └── singularity.hyb/
-        └── nombremodulo/          <-- Módulo específico (nombre variable)
-            └── dev/               <-- Carpeta de desarrollo del módulo
-                └── api/           <-- API backend usando la plantilla con el tinySax  (**Nombre del proyecto)
-```
-
-**Nota:** Si se crea el directorio con el nombre del proyecto es preferible se renombre el directorio, al nombre estandar llamado  **api**
