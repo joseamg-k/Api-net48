@@ -33,7 +33,12 @@ Documents
 ### 2. Abrir Visual Studio 2022
 Lanza Visual Studio y selecciona "Crear un nuevo proyecto".
 
+![Pantalla inicial](./Imgs/02_AbrirVS2022.webp)
+
 ### 3. Buscar la plantilla instalada
 En el buscador de plantillas, escribe el nombre de tu plantilla personalizada. Debería aparecer en los resultados.
 
 Selecciona la plantilla, haz clic en "Siguiente", y continúa con la configuración normal del proyecto.
+
+![Buscar plantilla](./Imgs/03_SeleccionarPlantillaVS2022.webp)
+
