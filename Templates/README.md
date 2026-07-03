@@ -1,7 +1,7 @@
 # 📦 Plantilla(s) de proyecto API para Visual Studio 2022, sistema singularity
 
 Esta sección del repositorio contiene una **plantillas personalizada de Api para Singularity** para usar en Visual Studio 2022. Sigue los pasos a continuación para instalarla y comenzar a utilizarla desde la interfaz de **"Crear nuevo proyecto"**.
-
+.dev
 ---
 
 ## 🧰 Requisitos
